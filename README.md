@@ -1,0 +1,6 @@
+## Repo Lekcije 3
+
+Ovdje se nalazi jednostavna web app. Sadrzi
+1. index.html
+2. script.js
+3. style.css
